@@ -3,7 +3,7 @@ var image = document.getElementById("image");
 var rightX =0;
 var leftX =4
 
-
+ 
 document.addEventListener("click",(event)=>{
     let imgWidth = event.target.clientWidth;
     var x =event.offsetX
